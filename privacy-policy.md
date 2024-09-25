@@ -29,7 +29,7 @@ Terms with capitalized initial letters have specific meanings defined below. The
 **Personal Data**  
 While engaging with our services, we may ask you to provide certain personally identifiable information, including but not limited to:
 - Email address
-- First name and last name
+- Full name
 - Phone number
 
 **Usage Data**  
