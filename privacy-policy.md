@@ -45,7 +45,6 @@ When accessing the Service via mobile devices, we may also collect device-specif
 ### Use of Your Personal Data
 We may use your Personal Data for various purposes, including:
 - To provide and maintain our services.
-- To manage your Account and provide access to different functionalities.
 - To communicate with you regarding our activities and updates.
 - To manage your inquiries and requests.
 - For fundraising efforts and promoting our initiatives.
